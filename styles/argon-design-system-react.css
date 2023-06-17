@@ -17,13 +17,13 @@
 */
 
 @font-face {
-	font-family: Augestina;
-	src: url('/fonts/Agustina.otf');
+	font-family: 'Dancing Script';
+	src: url('/fonts/Dancing.otf');
 }
 
 #nav-title {
-	font-family: Augestina;
-	text-transform: capitalize;
+    font-family: 'Dancing Script', cursive;
+    text-transform: capitalize;
 }
 
 :root {
