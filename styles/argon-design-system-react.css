@@ -15,15 +15,20 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-@font-face {
-	font-family: Augestina;
-	src: url('/fonts/Agustina.otf');
-}
 
-#nav-title {
-	font-family: Augestina;
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/fonts/montserrat.woff2') format('woff2'),
+		 url('/fonts/montserrat.woff') format('woff');
+	/* Add additional src lines for other font file formats if available */
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+  #nav-title {
+	font-family: 'Montserrat', sans-serif;
 	text-transform: capitalize;
-}
+  }  
 
 :root {
 	--blue: #5e72e4;
