@@ -12,8 +12,8 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Aashna Shroff',
+  title: "Hi, I am Aashna Shroff",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
@@ -21,7 +21,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'aashnashroff1',
 };
 
 export const contact = {};
