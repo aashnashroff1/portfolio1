@@ -233,11 +233,11 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Frontend Developer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    role: 'Full Stack Developer {Internship}',
+    company: 'Edhola Edusolutions Pvt. Ltd',
+    companyLogo: '/img/icons/common/Edhola.png',
+    date: 'June 2021- January 2022',
+    desc: 'Developed multiple customized websites using HTML, CSS, JavaScript, and React for the front-end, Node.js and Express.js for the back-end, & MongoDB for efficient data management resulting in improved client satisfaction. Increased website traffic by 30 % and achieved a 20 % boost in customer conversion rates through maintenance and updates, leading to higher purchasing engagement.',
   },
   {
     role: 'API Engineer',
@@ -249,20 +249,6 @@ export const experience: ExperienceType[] = [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
-  },
-  {
-    role: 'Full Stack Developer',
-    company: 'Bleed-AI',
-    companyLogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
-  },
-  {
-    role: 'Backend Developer',
-    company: 'Wapidu',
-    companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
   },
 ];
 
