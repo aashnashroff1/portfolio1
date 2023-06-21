@@ -28,9 +28,9 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  linkedin: 'https://www.linkedin.com/in/aashna-shroff1/',
+  github: 'https://github.com/aashnashroff1',
+  twitter: 'https://twitter.com/AashnaShroff5',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -231,37 +231,22 @@ export const projects: ProjectType[] = [
   },
 ];
 
-export const feedbacks: FeedbackType[] = [
-  {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-  },
-  {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-  },
-];
-
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Aashna Shroff',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+    'Software Developer | Data Driven Development Enthusiast | MS in CS at Syracuse University.',
+  author: 'Aashna Shroff',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Aashna',
+    'Aashna Shroff',
+    '@aashnashroff1',
+    'aashnashroff1',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Aashna Portfolio',
+    'Aashna Shroff Portfolio',
   ],
 };
