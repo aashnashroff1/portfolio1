@@ -30,7 +30,6 @@ export default function Home({
       <Education />
       <Experience />
       <Projects />
-      {showContactUs ? <Contact /> : null}
       <GithubProfileCard {...githubProfileData} />
     </div>
   );
