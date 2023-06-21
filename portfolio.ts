@@ -203,7 +203,7 @@ export const experience: ExperienceType[] = [
     company: 'Tech Mahindra Ltd.',
     companyLogo: '/img/icons/common/techm.png',
     date: 'December 2019 - March 2020',
-    desc: 'Developed a client-specific project using Scikit-learn, Spark, MongoDB, AWS, Kafka, and Flask. Devised a comprehensive data processing pipeline to handle large-scale datasets in Spark. Then, designed a web application using Flask to visualise and present the model’s predictions in a user-friendly manner. Successfully deployed the prediction model to a production environment, integrating Kafka and Flask technologies for real-time predictions. Continuously improved the prediction model by incorporating new features, refining algorithms, and optimising performance to meet the client’s evolving needs.',
+    desc: 'Developed a client-specific project using Scikit-learn, Spark, MongoDB, AWS, Kafka, and Flask. Devised a comprehensive data processing pipeline to handle large-scale datasets in Spark. Then, designed a web application using Flask to visualise and present the model’s predictions in a user-friendly manner.',
   },
 ];
 
