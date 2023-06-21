@@ -147,47 +147,6 @@ export const skillsSection: SkillsSectionType = {
         },
       ],
     },
-    {
-      title: 'Blockchain',
-      lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
-      skills: [
-        emoji(
-          '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
-        ),
-        emoji(
-          '⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura'
-        ),
-        emoji(
-          '⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles'
-        ),
-        emoji('⚡ Developing NFT Smart Contracts using ERC-721 Token Standard'),
-        emoji(
-          '⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS'
-        ),
-      ],
-      softwareSkills: [
-        {
-          skillName: 'Ethereum',
-          fontAwesomeClassName: 'logos:ethereum',
-        },
-        {
-          skillName: 'Solidity',
-          fontAwesomeClassName: 'logos:solidity',
-        },
-        {
-          skillName: 'Web3js',
-          fontAwesomeClassName: 'logos:web3js',
-        },
-        {
-          skillName: 'Metamask',
-          fontAwesomeClassName: 'logos:metamask-icon',
-        },
-        {
-          skillName: 'Ganache',
-          fontAwesomeClassName: 'logos:ganache-icon',
-        },
-      ],
-    },
   ],
 };
 
