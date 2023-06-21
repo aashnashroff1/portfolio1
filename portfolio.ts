@@ -195,19 +195,15 @@ export const experience: ExperienceType[] = [
     role: 'Full Stack Developer {Internship}',
     company: 'Edhola Edusolutions Pvt. Ltd',
     companyLogo: '/img/icons/common/Edhola.png',
-    date: 'June 2021- January 2022',
+    date: 'June 2021 - January 2022',
     desc: 'Developed multiple customized websites using HTML, CSS, JavaScript, and React for the front-end, Node.js and Express.js for the back-end, & MongoDB for efficient data management resulting in improved client satisfaction. Increased website traffic by 30 % and achieved a 20 % boost in customer conversion rates through maintenance and updates, leading to higher purchasing engagement.',
   },
   {
-    role: 'API Engineer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
+    role: 'Data Scientist {Internship}',
+    company: 'Tech Mahindra Ltd.',
+    companyLogo: '/img/icons/common/techm.png',
+    date: 'December 2019 - March 2020',
+    desc: 'Developed a client-specific project using Scikit-learn, Spark, MongoDB, AWS, Kafka, and Flask. Devised a comprehensive data processing pipeline to handle large-scale datasets in Spark. Then, designed a web application using Flask to visualise and present the model’s predictions in a user-friendly manner. Successfully deployed the prediction model to a production environment, integrating Kafka and Flask technologies for real-time predictions. Continuously improved the prediction model by incorporating new features, refining algorithms, and optimising performance to meet the client’s evolving needs.',
   },
 ];
 
