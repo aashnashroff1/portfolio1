@@ -171,14 +171,14 @@ export const educationInfo: EducationType[] = [
     subHeader: 'Master of Science in Computer Science',
     duration: 'January 2022- December 2023',
     desc: '',
-    grade: 'Grade: 3.7/4.',
+    grade: 'Grade: 3.7/4',
   },
   {
     schoolName: 'University of Mumbai',
     subHeader: 'Bachelor of Engineering in Computer Science',
     duration: 'June 2017 - June 2021',
     desc: '',
-    grade: 'Grade: 8.95/10.',
+    grade: 'Grade: 8.95/10',
   },
 ];
 
@@ -237,7 +237,7 @@ export const feedbacks: FeedbackType[] = [
 ];
 
 // option to hide or show the ContactUs component
-export const showContactUs: boolean = true;
+export const showContactUs: boolean = false;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
