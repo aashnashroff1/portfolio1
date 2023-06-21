@@ -35,9 +35,10 @@ const ExperienceCard = ({
                 top: '7rem',
                 marginLeft: 'auto',
                 marginRight: 'auto',
-                width: '15rem',
-                height: '15rem',
+                width: '10rem',
+                height: '10rem',
                 borderRadius: '50%',
+                transform: 'scale(0.8)',
               }}
               className="shadow mb-3"
               alt={companyLogo}
