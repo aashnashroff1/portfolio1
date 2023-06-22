@@ -3,11 +3,7 @@ import { greetings } from '../portfolio';
 import { Button, Container, Row, Col } from 'reactstrap';
 import GreetingLottie from '../components/DisplayLottie';
 import SocialLinks from '../components/SocialLinks';
-import ResumePdf from "../public/img/icons/common/Resume.pdf";
-
-
-
-
+import ResumePdf from '../public/img/icons/common/resume.png';
 
 const Greetings = () => {
   useEffect(() => {
