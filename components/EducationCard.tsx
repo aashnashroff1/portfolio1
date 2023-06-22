@@ -28,7 +28,7 @@ const EducationCard = ({
                 </Badge>
               )}
               <p className="description mt-3">{desc}</p>
-              <ul>
+              <ul style={{ fontSize: '12px' }}>
                 {descBullets
                   ? descBullets.map((desc) => {
                       return <li key={desc}>{desc}</li>;

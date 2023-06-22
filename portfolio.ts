@@ -178,7 +178,7 @@ export const educationInfo: EducationType[] = [
     duration: 'June 2017 - June 2021',
     desc:'',
     grade: 'Grade: 8.95/10',
-    descBullets: ['CSC305- Data Structures','CSC405- Operating Systems','CSC601- Software Engineering','CSC603- Data Warehousing & Mining','CSDLO5013- Advance Algorithm','CSDLO6021- Machine Learning','CSDLO7032- Big Data & Analytics','DLO8012- Natural Language Processing', 'CSC703- Artificial Intelligence & Soft Computing'],
+    descBullets: ['CSC305- Data Structures','CSC405- Operating Systems','CSC601- Software Engineering','CSC603- Data Warehousing & Mining','CS5013- Advance Algorithm','CS6021- Machine Learning','CS7032- Big Data & Analytics','CSO8012- Natural Language Processing', 'CSC703- Artificial Intelligence & Soft Computing'],
   },
 ];
 
