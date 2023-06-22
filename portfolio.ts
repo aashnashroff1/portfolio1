@@ -168,14 +168,14 @@ export const educationInfo: EducationType[] = [
     schoolName: 'Syracuse University',
     subHeader: 'Master of Science in Computer Science',
     duration: 'January 2022- December 2023',
-    desc: '',
+    desc: 'Courses Taken: CIS 655- Computer Architecture, CIS 675- Design and Analysis of Algorithms, CIS 581- Intro to Database Management Systems, CIS 623 - Structured Programming and Formal Methods, CIS 628 - Introduction to Cryptography, CIS 657 - Principles of Operating Systems, CIS 600 - Introduction to Machine Learning, CIS 600 - Social Media & Data Mining, CIS 735 - Machine Learning for Security',
     grade: 'Grade: 3.7/4',
   },
   {
     schoolName: 'University of Mumbai',
     subHeader: 'Bachelor of Engineering in Computer Science',
     duration: 'June 2017 - June 2021',
-    desc: '',
+    desc: 'Courses Taken:CSC305 Data Structures, CSL304 Object Oriented Programming (OOPs) in Java, CSC402 Analysis of Algorithms, CSC403 Computer Organization and Architecture, CSC405 Operating Systems, CSC502 Database Management Systems, CSC503 Computer Networks, CSC601 Software Engineering, CSC603 Data Warehousing & Mining, CSC703 Artificial Intelligence & Soft Computing, CSC802 Distributed Computing, CSDLO5013 Advance Algorithm, CSDLO6021 Machine Learning, CSDLO7032 Big Data & Analytics, DLO8012 Natural Language Processing ',
     grade: 'Grade: 8.95/10',
   },
 ];
