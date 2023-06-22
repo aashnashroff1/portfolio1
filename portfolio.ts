@@ -178,7 +178,7 @@ export const educationInfo: EducationType[] = [
     duration: 'June 2017 - June 2021',
     desc:'',
     grade: 'Grade: 8.95/10',
-    descBullets: ['CSC305 Data Structures', 'CSL304 Object Oriented Programming (OOPs) in Java', 'CSC402 Analysis of Algorithms','CSC405 Operating Systems','CSC502 Database Management Systems','CSC601 Software Engineering','CSC603 Data Warehousing & Mining','CSC703 Artificial Intelligence & Soft Computing','CSC802 Distributed Computing','CSDLO5013 Advance Algorithm','CSDLO6021 Machine Learning','CSDLO7032 Big Data & Analytics','DLO8012 Natural Language Processing'],
+    descBullets: ['CSC305 Data Structures','CSC405 Operating Systems','CSC601 Software Engineering','CSC603 Data Warehousing & Mining','CSC703 Artificial Intelligence & Soft Computing','CSDLO5013 Advance Algorithm','CSDLO6021 Machine Learning','CSDLO7032 Big Data & Analytics','DLO8012 Natural Language Processing'],
   },
 ];
 
