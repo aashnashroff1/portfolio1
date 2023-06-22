@@ -170,7 +170,7 @@ export const educationInfo: EducationType[] = [
     duration: 'January 2022- December 2023',
     desc:'',
     grade: 'Grade: 3.7/4',
-    descBullets: ['CIS 655- Computer Architecture', 'CIS 675- Design and Analysis of Algorithms','CIS 581- Database Management Systems','CIS 623 - Structured Programming & Formal Methods','CIS 628 - Introduction to Cryptography','CIS 657 - Principles of Operating Systems','CIS 600 - Introduction to Machine Learning', 'CIS 600 - Social Media & Data Mining', 'CIS 735 - Machine Learning for Security'],
+    descBullets: ['CIS 655- Computer Architecture', 'CIS 675- Design and Analysis of Algorithms','CIS 581- Database Management Systems','CIS 628 - Introduction to Cryptography','CIS 657 - Principles of Operating Systems','CIS 600 - Introduction to Machine Learning', 'CIS 600 - Social Media & Data Mining', 'CIS 735 - Machine Learning for Security', 'CIS 623 - Structured Prog. & Formal Methods'],
   },
   {
     schoolName: 'University of Mumbai',
@@ -178,7 +178,7 @@ export const educationInfo: EducationType[] = [
     duration: 'June 2017 - June 2021',
     desc:'',
     grade: 'Grade: 8.95/10',
-    descBullets: ['CSC305 Data Structures','CSC405 Operating Systems','CSC601 Software Engineering','CSC603 Data Warehousing & Mining','CSC703 Artificial Intelligence & Soft Computing','CSDLO5013 Advance Algorithm','CSDLO6021 Machine Learning','CSDLO7032 Big Data & Analytics','DLO8012 Natural Language Processing'],
+    descBullets: ['CSC305- Data Structures','CSC405- Operating Systems','CSC601- Software Engineering','CSC603- Data Warehousing & Mining','CSDLO5013- Advance Algorithm','CSDLO6021- Machine Learning','CSDLO7032- Big Data & Analytics','DLO8012- Natural Language Processing', 'CSC703- Artificial Intelligence & Soft Computing'],
   },
 ];
 
