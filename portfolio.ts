@@ -170,7 +170,7 @@ export const educationInfo: EducationType[] = [
     duration: 'January 2022- December 2023',
     desc:'',
     grade: 'Grade: 3.7/4',
-    descBullets: ['CIS 655- Computer Architecture', 'CIS 675- Design and Analysis of Algorithms','CIS 581- Intro to Database Management Systems','CIS 623 - Structured Programming and Formal Methods','CIS 628 - Introduction to Cryptography','CIS 657 - Principles of Operating Systems','CIS 600 - Introduction to Machine Learning', 'CIS 600 - Social Media & Data Mining', 'CIS 735 - Machine Learning for Security'],
+    descBullets: ['CIS 655- Computer Architecture', 'CIS 675- Design and Analysis of Algorithms','CIS 581- Database Management Systems','CIS 623 - Structured Programming & Formal Methods','CIS 628 - Introduction to Cryptography','CIS 657 - Principles of Operating Systems','CIS 600 - Introduction to Machine Learning', 'CIS 600 - Social Media & Data Mining', 'CIS 735 - Machine Learning for Security'],
   },
   {
     schoolName: 'University of Mumbai',
