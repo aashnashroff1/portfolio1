@@ -9,6 +9,7 @@ const Greetings = () => {
     document.documentElement.scrollTop = 0;
     document.scrollingElement!.scrollTop = 0;
   });
+
   return (
     <main>
       <div className="position-relative">
@@ -27,22 +28,23 @@ const Greetings = () => {
           <Container className="py-lg-md d-flex">
             <div className="col px-0">
               <Row>
-                <Col lg="6">
+                <Col lg="6" className="pt-100"> {/* Add a CSS class to apply padding */}
                   <h1 className="display-3 text-white">
                     {greetings.title + ' '}
                   </h1>
                   <p className="lead text-white">{greetings.description}</p>
                   <SocialLinks />
                   <div className="btn-wrapper my-4">
-                      <Button
-                        className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
-                        color="default"
-                        href='https://drive.google.com/file/d/1jgEouVTBkKTw5Zh6_r3zvtoaza0aTMcF/view?usp=sharing' >
-                        <span className="btn-inner--icon mr-1">
-                          <i className="fa fa-file" />
-                        </span>
-                        <span className="btn-inner--text">See My Resume</span>
-                      </Button>
+                    <Button
+                      className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
+                      color="default"
+                      href='https://drive.google.com/file/d/1jgEouVTBkKTw5Zh6_r3zvtoaza0aTMcF/view?usp=sharing'
+                    >
+                      <span className="btn-inner--icon mr-1">
+                        <i className="fa fa-file" />
+                      </span>
+                      <span className="btn-inner--text">See My Resume</span>
+                    </Button>
                   </div>
                 </Col>
                 <Col lg="6">
