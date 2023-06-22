@@ -19,7 +19,6 @@ export type GreetingsType = {
   name: string;
   title: string;
   description?: string;
-  resumeLink?: string;
 };
 
 // * SKILLS SECTION
