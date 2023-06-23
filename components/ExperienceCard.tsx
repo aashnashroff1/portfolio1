@@ -51,13 +51,6 @@ const ExperienceCard = ({
             <CardSubtitle>{date}</CardSubtitle>
             <CardText tag="div" className="description my-3 text-left">
               {desc}
-              <ul>
-                {descBullets
-                  ? descBullets.map((desc) => {
-                      return <li key={desc}>{desc}</li>;
-                    })
-                  : null}
-              </ul>
             </CardText>
           </CardBody>
         </Card>
