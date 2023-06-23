@@ -46,7 +46,7 @@ const Greetings = () => {
                     </Button>
                   </div>
                 </Col>
-                <Col lg="6" className="pt-200">
+                <Col lg="6" className="pt-100">
                   <GreetingLottie animationPath="/lottie/coding.json" />
                 </Col>
               </Row>
