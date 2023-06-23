@@ -1,7 +1,6 @@
 import dynamic from 'next/dynamic';
 const Navigation = dynamic(() => import('../components/Navigation'));
 const Greetings = dynamic(() => import('../containers/Greetings'));
-const MySkills = dynamic(() => import('../containers/Myskills'));
 const Skills = dynamic(() => import('../containers/Skills'));
 const Proficiency = dynamic(() => import('../containers/Proficiency'));
 const Education = dynamic(() => import('../containers/Education'));
@@ -30,7 +29,6 @@ export default function Home({
       <Education />
       <Experience />
       <Projects />
-      <MySkills/>
       <GithubProfileCard {...githubProfileData} />
     </div>
   );
