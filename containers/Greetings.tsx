@@ -28,7 +28,7 @@ const Greetings = () => {
           <Container className="py-lg-md d-flex">
             <div className="col px-0">
               <Row>
-                <Col lg="6" className="pt-300"> {/* Add a CSS class to apply padding */}
+                <Col lg="6" className="pt-200"> {/* Add a CSS class to apply padding */}
                   <h1 className="display-3 text-white">
                     {greetings.title + ' '}
                   </h1>
@@ -46,7 +46,7 @@ const Greetings = () => {
                     </Button>
                   </div>
                 </Col>
-                <Col lg="6">
+                <Col lg="6" className="pt-200">
                   <GreetingLottie animationPath="/lottie/coding.json" />
                 </Col>
               </Row>
