@@ -46,10 +46,10 @@ const ExperienceCard = ({
               {company}
             </CardTitle>
             <CardText tag="div" className="description my-3 text-justify text-dark">
-            <CardSubtitle tag="h5" className="mb-2">
+            <CardSubtitle tag="h5" className="mb-2 pb-md-5">
               {role}
             </CardSubtitle>
-            <CardSubtitle className="pb-1">{date}</CardSubtitle>
+            <CardSubtitle className="pb-md-5">{date}</CardSubtitle>
               {desc}
             </CardText>
           </CardBody>
