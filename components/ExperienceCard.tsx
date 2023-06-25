@@ -45,7 +45,7 @@ const ExperienceCard = ({
             <CardTitle tag="h4" className="mb-2">
               {company}
             </CardTitle>
-            <CardText tag="div" className="description my-3 text-justify">
+            <CardText tag="div" className="description my-3 text-justify text-dark">
             <CardSubtitle tag="h5" className="mb-2">
               {role}
             </CardSubtitle>
