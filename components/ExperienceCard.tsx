@@ -50,9 +50,7 @@ const ExperienceCard = ({
               {role}
             </CardSubtitle>
             <CardSubtitle>{date}</CardSubtitle>
-            <ul>
-              <li>{desc}</li>
-            </ul>
+            {desc}
             </CardText>
           </CardBody>
         </Card>

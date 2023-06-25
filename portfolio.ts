@@ -201,25 +201,25 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'developer-portfolio',
+    name: 'Explore A&N Virtual Reality App',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/1hanzla100/developer-portfolio',
     link: 'https://developer-portfolio-1hanzla100.vercel.app/',
   },
   {
-    name: 'AtlasMart',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+    name: 'Flight Delay Forecasting',
+    desc: 'Developed a project to predict delay of United Airlines flights to Syracuse. Performed data preprocessing, feature engineering, and dimensionality reduction techniques. Employed different ML models for prediction.',
+    github: 'https://github.com/aashnashroff1/Flight-Delay-Prediction',
   },
   {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    name: 'Biometric-Based Continuous User Authentication',
+    desc: 'Biometric-Based Continuous User Authentication-Implemented an identification system using Time series data from Google Glass to perform continuous user authentication in mobile banking applications for secure account access, capturing and analyzing unique movement patterns of each user to create a reference pattern for biometric identification.',
+    github: 'https://github.com/aashnashroff1/Biometric-Based-Continuous-User-Authentication-using-Time-Series-Data',
   },
   {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    name: 'DBMS Project',
+    desc: '"HR Recruitment System Database" streamlines recruitment by organizing applicant info, managing the entire process, and utilizing various tables for data storage. It incorporates user-defined functions, views, triggers, and transactions to enhance functionality and data management',
+    github: 'https://github.com/aashnashroff1/HR-Recruitment-System-Database-project',
   },
 ];
 
