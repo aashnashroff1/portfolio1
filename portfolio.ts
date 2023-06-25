@@ -201,7 +201,7 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'Explore A&N Virtual Reality App',
+    name: 'Explore A&N (VR App)',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/1hanzla100/developer-portfolio',
     link: 'https://developer-portfolio-1hanzla100.vercel.app/',
