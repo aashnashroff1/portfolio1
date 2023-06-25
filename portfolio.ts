@@ -184,10 +184,10 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Full Stack Developer {Internship}',
+    role: 'Full Stack Developer (Internship)',
     company: 'Edhola Edusolutions Pvt. Ltd',
     companyLogo: '/img/icons/common/Edhola.png',
-    date: 'June 2021 - January 2022',
+    date: '',
     desc: 'Developed multiple customized websites using HTML, CSS, JavaScript, and React for the front-end, Node.js and Express.js for the back-end, & MongoDB for efficient data management resulting in improved client satisfaction. Increased website traffic by 30 % and achieved a 20 % boost in customer conversion rates through maintenance and updates, leading to higher purchasing engagement.',
   },
   {
