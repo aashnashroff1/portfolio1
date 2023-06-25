@@ -49,7 +49,7 @@ const ExperienceCard = ({
             <CardSubtitle tag="h5" className="mb-2">
               {role}
             </CardSubtitle>
-            <CardSubtitle>{date}</CardSubtitle>
+            <CardSubtitle className="pb-9">{date}</CardSubtitle>
               {desc}
             </CardText>
           </CardBody>
