@@ -468,6 +468,10 @@ h6,
 	line-height: 1.5;
 }
 
+.w-8 {
+	width: 8rem;
+  }  
+
 .display-3 {
 	font-size: 2.1875rem;
 	font-weight: 600;
