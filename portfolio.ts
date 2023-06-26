@@ -202,9 +202,9 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
   {
     name: 'Explore A&N (VR App)',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    desc: 'An exclusive Virtual Reality experience to explore the untouched and unexplored gifts of Andaman & Nicobar Islands, India by leveraging the power of Virtual Reality.',
+    github: 'https://github.com/aashnashroff1/Explore-A-N-VR-app',
+    link: 'https://youtu.be/uTxm9yeTcYc',
   },
   {
     name: 'Flight Delay Forecasting',
@@ -220,6 +220,16 @@ export const projects: ProjectType[] = [
     name: 'DBMS Project',
     desc: '"HR Recruitment System Database" streamlines recruitment by organizing applicant info, managing the entire process, and utilizing various tables for data storage. It incorporates user-defined functions, views, triggers, and transactions to enhance functionality and data management',
     github: 'https://github.com/aashnashroff1/HR-Recruitment-System-Database-project',
+  },
+  {
+    name: 'Cardiovascular Disease Prediction',
+    desc: 'This project proposes a prediction model to predict whether a person will have cardiovascular disease or not.',
+    github: 'https://github.com/aashnashroff1/Cardiovascular-Disease-Prediction-Model',
+  },
+  {
+    name: 'SMDM Project',
+    desc: 'Analyzing WeRateDogs Twitter data, we extracted insights into dog ratings, user engagement, and preferences. Uncovering top rated breeds and sentiment-engagement correlations, we provide businesses key insights for social media engagement and understanding user behavior.',
+    github: 'https://github.com/aashnashroff1/SMDM-Project',
   },
 ];
 
