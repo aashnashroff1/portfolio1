@@ -202,28 +202,28 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
   {
     name: 'Explore A&N (VR App)',
-    desc: 'An exclusive Virtual Reality experience to explore the untouched and unexplored gifts of Andaman & Nicobar Islands, India by leveraging the power of Virtual Reality.',
+    desc: 'Embark on an exclusive Virtual Reality journey to uncover the hidden treasures of Andaman & Nicobar Islands, India. Experience the untouched wonders through immersive technology, revealing unseen marvels.',
     github: 'https://github.com/aashnashroff1/Explore-A-N-VR-app',
     link: 'https://youtu.be/uTxm9yeTcYc',
   },
   {
     name: 'Flight Delay Forecasting',
-    desc: 'Developed a project to predict delay of United Airlines flights to Syracuse. Performed data preprocessing, feature engineering, and dimensionality reduction techniques. Employed different ML models for prediction.',
+    desc: 'Developed a project predicting United Airlines flight delays to Syracuse. Employed data preprocessing, feature engineering, and dimensionality reduction techniques, utilizing various ML models for accurate delay prediction.',
     github: 'https://github.com/aashnashroff1/Flight-Delay-Prediction',
   },
   {
     name: 'Biometric-Based Continuous User Authentication',
-    desc: 'Biometric-Based Continuous User Authentication-Implemented an identification system using Time series data from Google Glass to perform continuous user authentication in mobile banking applications for secure account access, capturing and analyzing unique movement patterns of each user to create a reference pattern for biometric identification.',
+    desc: 'Implemented continuous user authentication in mobile banking using Google Glass time series data. Captured unique movement patterns for biometric identification, ensuring secure account access and enhancing user authentication.',
     github: 'https://github.com/aashnashroff1/Biometric-Based-Continuous-User-Authentication-using-Time-Series-Data',
   },
   {
     name: 'DBMS Project',
-    desc: '"HR Recruitment System Database" streamlines recruitment by organizing applicant info, managing the entire process, and utilizing various tables for data storage. It incorporates user-defined functions, views, triggers, and transactions to enhance functionality and data management',
+    desc: 'The "HR Recruitment System Database" simplifies recruitment with organized applicant info, process management, and data storage. It includes user-defined functions, views, triggers, and transactions for enhanced functionality and data management.',
     github: 'https://github.com/aashnashroff1/HR-Recruitment-System-Database-project',
   },
   {
     name: 'Cardiovascular Disease Prediction',
-    desc: 'This project proposes a prediction model to predict whether a person will have cardiovascular disease or not.',
+    desc: 'We develop a real-time CVD prediction model using Naive Bayes, Logistic Regression, Decision Tree, and Random Forest. Deployed via Flask, users input data for instant predictions.',
     github: 'https://github.com/aashnashroff1/Cardiovascular-Disease-Prediction-Model',
   },
   {
