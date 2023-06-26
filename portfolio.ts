@@ -212,7 +212,7 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/aashnashroff1/Flight-Delay-Prediction',
   },
   {
-    name: 'Biometric-Based Continuous User Authentication',
+    name: 'Continuous User Authentication',
     desc: 'Implemented continuous user authentication in mobile banking using Google Glass time series data. Captured unique movement patterns for biometric identification, ensuring secure account access and enhancing user authentication.',
     github: 'https://github.com/aashnashroff1/Biometric-Based-Continuous-User-Authentication-using-Time-Series-Data',
   },
@@ -223,7 +223,7 @@ export const projects: ProjectType[] = [
   },
   {
     name: 'Cardiovascular Disease Prediction',
-    desc: 'We develop a real-time CVD prediction model using Naive Bayes, Logistic Regression, Decision Tree, and Random Forest. Deployed via Flask, users input data for instant predictions.',
+    desc: 'We developed a real-time Cardiovascular Disease Prediction prediction model using Naive Bayes, Logistic Regression, Decision Tree, and Random Forest. Deployed via Flask, where users input data on the webapp for predictions.',
     github: 'https://github.com/aashnashroff1/Cardiovascular-Disease-Prediction-Model',
   },
   {
