@@ -212,7 +212,7 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/aashnashroff1/Flight-Delay-Prediction',
   },
   {
-    name: 'Continuous User Authentication',
+    name: 'Continuous Authentication',
     desc: 'Implemented continuous user authentication in mobile banking using Google Glass time series data. Captured unique movement patterns for biometric identification, ensuring secure account access and enhancing user authentication.',
     github: 'https://github.com/aashnashroff1/Biometric-Based-Continuous-User-Authentication-using-Time-Series-Data',
   },
@@ -222,7 +222,7 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/aashnashroff1/HR-Recruitment-System-Database-project',
   },
   {
-    name: 'Cardiovascular Disease Prediction',
+    name: 'Heart Disease Prediction',
     desc: 'We developed a real-time Cardiovascular Disease Prediction prediction model using Naive Bayes, Logistic Regression, Decision Tree, and Random Forest. Deployed via Flask, where users input data on the webapp for predictions.',
     github: 'https://github.com/aashnashroff1/Cardiovascular-Disease-Prediction-Model',
   },
