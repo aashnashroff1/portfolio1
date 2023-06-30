@@ -25,7 +25,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: '',
   linkedin: 'https://www.linkedin.com/in/aashna-shroff1/',
   github: 'https://github.com/aashnashroff1',
   twitter: 'https://twitter.com/AashnaShroff5',

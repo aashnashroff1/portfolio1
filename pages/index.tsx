@@ -7,7 +7,6 @@ const Education = dynamic(() => import('../containers/Education'));
 const Experience = dynamic(() => import('../containers/Experience'));
 const Projects = dynamic(() => import('../containers/Projects'));
 const Feedbacks = dynamic(() => import('../containers/Feedbacks'));
-const Myskills = dynamic(() => import('../containers/MySkills'));
 const GithubProfileCard = dynamic(() => import('../components/GithubProfileCard'));
 
 import { openSource, showContactUs } from '../portfolio';
@@ -29,7 +28,6 @@ export default function Home({
       <Education />
       <Experience />
       <Projects />
-      <Myskills/>
       <GithubProfileCard {...githubProfileData} />
     </div>
   );
