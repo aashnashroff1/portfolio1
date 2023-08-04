@@ -28,7 +28,7 @@ export const socialLinks: SocialLinksType = {
   url: '',
   linkedin: 'https://www.linkedin.com/in/aashna-shroff1/',
   github: 'https://github.com/aashnashroff1',
-  twitter: 'https://twitter.com/AashnaShroff5',
+  twitter: '',
 };
 
 export const skillsSection: SkillsSectionType = {
